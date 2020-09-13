@@ -1,0 +1,12 @@
+{
+  "name": "rnWithExpoBare",
+  "displayName": "rnWithExpoBare",
+  "expo": {
+    "name": "rnWithExpoBare",
+    "slug": "rnWithExpoBare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
